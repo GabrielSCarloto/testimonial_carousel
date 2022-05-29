@@ -1,0 +1,47 @@
+.team {
+    position:relative;
+    width:70%;
+    height:200px;
+    border-radius:20px;
+    background:linear-gradient(95.21deg, #8547FF 18.88%, #1F3A71 173.97%);
+    box-shadow:-10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.carousel-control-prev, .carousel-control-next {
+    width:45px;
+    height:45px;
+    margin-top:80px;
+    opacity:100%;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    transform:scale(1.1);
+}
+
+.opiniao_centro {
+    width:70%;
+    height:110px;
+    margin-top:45px;
+    margin-left:9.5%;
+    color:#FFF;
+    float:left;
+    text-align:justify;
+}
+
+.foto_centro {
+    position:relative;
+    float:left;
+    margin-top:55px;
+    margin-left:40px;
+}
+
+.nome_centro {
+    color:#FFF;
+    font-family:'Inter';
+    font-style:normal;
+    font-weight:400;
+    font-size:20px;
+    margin-right:130px;
+    margin-top:5px;
+    float:right;
+}
